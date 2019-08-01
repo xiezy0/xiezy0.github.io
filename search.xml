@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[第一篇]]></title>
+    <url>%2F2019%2F07%2F31%2F%E7%AC%AC%E4%B8%80%E7%AF%87%2F</url>
+    <content type="text"><![CDATA[第一篇文章什么都没有还是什么都没有 一 二 a 列表一 b 列表二 加入github 字体是斜体字体是加粗的 &lt;html&gt;&lt;/html&gt; 123&lt;html&gt;&lt;p&gt;这是一个多行的代码&lt;/p&gt;&lt;/html&gt; 这是引用的一段内容]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F28%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Hello HexoQuick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
